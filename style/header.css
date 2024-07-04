@@ -26,6 +26,6 @@
     display: none;
 }
 
-.container__botão:checked~.lista-menu{
+.container__botao:checked~.lista-menu{
     display: block;
 }
