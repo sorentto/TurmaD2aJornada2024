@@ -33,3 +33,7 @@
 .container__botao:checked~.lista-menu{
     display: block;
 }
+
+.lista-menu__titulo, .lista-menu__item {
+    padding: 1em;
+}
