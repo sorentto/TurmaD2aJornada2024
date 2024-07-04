@@ -2,6 +2,7 @@
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
+    position: relative;
 }
 
 .cabecalho__menu-hamburger{
@@ -24,6 +25,8 @@
 
 .lista-menu {
     display: none;
+    position: absolute;
+    top: 100%;
 }
 
 .container__botao:checked~.lista-menu{
