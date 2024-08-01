@@ -6,6 +6,13 @@
 
 .topicos__titulo{
     color: var(--branco);
-    font-weight: 300;
+    font-weight: 700;
+    font-size: 17px;
     margin-bottom: 1em;
+}
+
+.topicos__lista{
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
 }
