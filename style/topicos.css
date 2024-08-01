@@ -17,7 +17,7 @@
     justify-content: center;
 }
 
-.topicos__link{
+.link{
     color: var(--branco);
     padding: 1em;
     background-color: var(--laranja);
