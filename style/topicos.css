@@ -19,7 +19,7 @@
 
 .link{
     color: var(--branco);
-    padding: 1em;
+    padding: 1em 1em;
     background-color: var(--laranja);
     font-size: 14px;
     font-weight: 700;
