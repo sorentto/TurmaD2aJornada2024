@@ -18,7 +18,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip:text;
-    margin: 0 1em;
+    padding: 0 1em;
 }
 
 .contato__email{
@@ -36,5 +36,5 @@
     padding-left: 2em;
     text-align: center;
     background-position: 1em;
-    margin: 0 1em;
+    padding: 0 1em;
 }
