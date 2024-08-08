@@ -14,5 +14,8 @@
 }
 
 .contato__titulo, .contato__texto{
-    color: var(--azul-degrade);
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip:text;
 }
