@@ -56,11 +56,17 @@
     text-transform: uppercase;
 }
 
+.cabecalho__titulo{
+    display: none;
+}
+
+
 @media screen and (min-width: 1024px ) {
         .cabecalho__titulo{
             font-family: var(--fonte-secundaria);
             font-size: 30px;
             font-weight: 400;
+            display: block;
         }
 
         .cabecalho__titulo-negrito{
