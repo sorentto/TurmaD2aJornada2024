@@ -93,4 +93,8 @@
         .cabecalho__imagem-transparente{
             display: none;
         }
+
+        .cabecalho__menu-hamburger{
+            display: none;
+        }
 }
