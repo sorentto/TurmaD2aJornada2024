@@ -97,4 +97,9 @@
         .cabecalho__menu-hamburger{
             display: none;
         }
+
+        .opcoes__botao:checked~.lista__menu{
+            display: block;
+            width: auto;
+        }
 }
