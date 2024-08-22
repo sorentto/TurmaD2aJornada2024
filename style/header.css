@@ -72,4 +72,18 @@
         .cabecalho__titulo-negrito{
             font-weight: 700;
         }
+
+        .opcoes{
+            display: flex;
+        }
+
+        .opcoes__item{
+            text-transform: uppercase;
+            padding: 2em;
+        }
+
+        .opcoes__item-link{
+            text-decoration: none;
+            color: var(--preto);
+        }
 }
